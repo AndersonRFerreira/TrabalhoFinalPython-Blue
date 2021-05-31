@@ -20,4 +20,4 @@ E o mais importante, esse relógio vai ajudar na contribuição do INSS para que
 Participantes do projeto
 </h2>
 
-Anderson Reis, everton vieira, Ricardo alex lima - Turma 2c Blue Edtech
+Anderson Reis, <a https://github.com/evertonleite1986 everton vieira  </a>, <a https://github.com/Lima-RicardoRicardo alex lima </a>- Turma 2c Blue Edtech
