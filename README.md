@@ -1,12 +1,16 @@
 # TrabalhoFinalPython-Blue (Future Point)
 
 
+
 No trabalho final do módulo 1 de python fomos desafiados a criar um programa utilizando os conhecimentos adquiridos , fazendo um pitch para apresentá-lo a turma e professores de forma a convence-los da compra do mesmo.
+
 
 
 <h1>
 Sobre o projeto
 </h1>
+
+![Future](https://user-images.githubusercontent.com/80074729/120358702-2dfc4300-c2dd-11eb-9243-ee8523a6b790.png)
 
 
 A idéia surgiu da necessidade de resgistrar de forma mais detalhada a jornada de trabalhadores informais, visto que não possuem vinculo via CLT. Possibilitando assim a geração de Olerite para comprovação de renda e possibilitando acesso do trabalhadador a serviços que precisam desta comprovação. 
