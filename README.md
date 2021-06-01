@@ -15,8 +15,11 @@ Sobre o projeto
 
 A idéia surgiu da necessidade de registrar de forma mais detalhada a jornada de trabalhadores informais, visto que não possuem vínculo via CLT. Possibilitando assim a geração de Olerite para comprovação de renda e possibilitando acesso do trabalhadador a serviços que precisam desta comprovação. 
 
+Este é um projeto de um ponto eletrônico via app em que a pessoa que utiliza os serviços de profissionais autônomos como diaristas e pedreiros possam ter o controle sobre as horas trabalhadas o quanto  deve  ao funcionário.
+
 O aplicativo também conta com módulo de reconhecimento facial ainda em fase alfa, para trazer mais segurança ao empregador que terá um histórico mais completo sobre quem  contratou.
 
+O aplicativo conta com um  relógio de ponto também em fase alfa que vai ajudar na contabilização de horas.
 
 Segundo o IBGE até Novembro/2020 uma parcela de 41,6% da população brasileira estava classificada como trabalhadores informais.
 fonte: https://agenciabrasil.ebc.com.br/economia/noticia/2020-11/ibge-informalidade-atinge-416-dos-trabalhadores-no-pais-em-2019#:~:text=A%20informalidade%20no%20mercado%20de,39%2C3%20milh%C3%B5es%20de%20pessoas.
@@ -25,10 +28,6 @@ fonte: https://agenciabrasil.ebc.com.br/economia/noticia/2020-11/ibge-informalid
 <h2>
 Features
 </h2>
-
-Este é um projeto de um ponto eletrônico via app em que a pessoa que utiliza os serviços de profissionais autônomos como diaristas e pedreiros possam ter o controle sobre as horas trabalhadas o quanto  deve  ao funcionário.
-
-O mais importante, esse relógio vai ajudar na contribuição do INSS para que esses profissionais possam se aposentar sem precisar de registro em carteira.
 
 O programa registra as seguintes informações baseadas em dados fornecido pelo usuário: 
 
