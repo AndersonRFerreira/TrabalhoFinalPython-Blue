@@ -46,9 +46,9 @@ Anderson Reis : contribuinte na estruturação do código, criação do nome do 
 
 <a href="https://github.com/evertonleite1986" target="_blank"> Everton vieira  </a> : contribuinte na estruturação do código e criação da problemática e solução e revisão do código.
 
-<a href="https://github.com/Lima-Ricardo" target="_blank"> Ricardo alex lima </a> : responsavel pela estruturação do codigo, criação da problemática , solução e revisão do codigo. 
+<a href="https://github.com/Lima-Ricardo" target="_blank"> Ricardo alex lima </a> : responsável pela estruturação do código, criação da problemática , solução e revisão do código. 
 
-e o <a href="https://github.com/richardcostarocha" target="_blank"> Richard </a> #calmarichard como revisor mestre (piada interna)
+E também o <a href="https://github.com/richardcostarocha" target="_blank"> Richard </a> #calmarichard como revisor mestre (piada interna)
 
 
 <h2>
