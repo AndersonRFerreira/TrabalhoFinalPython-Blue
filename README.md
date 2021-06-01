@@ -15,6 +15,9 @@ Sobre o projeto
 
 A idéia surgiu da necessidade de resgistrar de forma mais detalhada a jornada de trabalhadores informais, visto que não possuem vinculo via CLT. Possibilitando assim a geração de Olerite para comprovação de renda e possibilitando acesso do trabalhadador a serviços que precisam desta comprovação. 
 
+O aplicativo também conta com módulo de reconhecimento facial ainda em fase alfa, para trazer mais segurança ao empregador que terá um histórico mais completo sobre quem  contrato
+
+
 Segundo o IBGE até Novembro/2020 uma parcela de 41,6% da população brasileira estava classificada como trabalhadores informais.
 fonte: https://agenciabrasil.ebc.com.br/economia/noticia/2020-11/ibge-informalidade-atinge-416-dos-trabalhadores-no-pais-em-2019#:~:text=A%20informalidade%20no%20mercado%20de,39%2C3%20milh%C3%B5es%20de%20pessoas.
 
@@ -38,11 +41,13 @@ O programa registra as seguintes informações :
 Autores
 </h2>
 
-Anderson Reis : contribuinte na estruturação do código, criação do nome do app e da logo [design]
+Anderson Reis : contribuinte na estruturação do código, criação do nome do app e da logo 
 
-<a href="https://github.com/evertonleite1986" target="_blank"> Everton vieira  </a> : contribuinte na estruturação do codigo e criação da problemática e solução e revisão do código. [backend]
+<a href="https://github.com/evertonleite1986" target="_blank"> Everton vieira  </a> : contribuinte na estruturação do codigo e criação da problemática e solução e revisão do código.
 
-<a href="https://github.com/Lima-Ricardo" target="_blank"> Ricardo alex lima </a> : responsavel pela estruturação do codigo, criação da problemática , solução e revisão do codigo. [backend]
+<a href="https://github.com/Lima-Ricardo" target="_blank"> Ricardo alex lima </a> : responsavel pela estruturação do codigo, criação da problemática , solução e revisão do codigo. 
+
+e o <a href="https://github.com/richardcostarocha" target="_blank"> Richard </a> #calmarichard como revisor mestre (piada interna)
 
 
 <h2>
