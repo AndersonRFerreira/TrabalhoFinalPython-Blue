@@ -6,7 +6,7 @@ No trabalho final do módulo 1 de python fomos desafiados a criar um programa ut
 
 <h1>
 Sobre o projeto
-</h1>![filtro ta russo](https://user-images.githubusercontent.com/80074729/120326260-ee266300-c2be-11eb-9a40-717eb208afa3.png)
+</h1>
 
 
 A idéia surgiu da necessidade de resgistrar de forma mais detalhada a jornada de trabalhadores informais, visto que não possuem vinculo via CLT. Possibilitando assim a geração de Olerite para comprovação de renda e possibilitando acesso do trabalhadador a serviços que precisam desta comprovação. 
