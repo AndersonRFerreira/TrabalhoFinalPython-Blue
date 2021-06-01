@@ -13,7 +13,7 @@ Sobre o projeto
 ![Future](https://user-images.githubusercontent.com/80074729/120358702-2dfc4300-c2dd-11eb-9243-ee8523a6b790.png)
 
 
-A idéia surgiu da necessidade de resgistrar de forma mais detalhada a jornada de trabalhadores informais, visto que não possuem vinculo via CLT. Possibilitando assim a geração de Olerite para comprovação de renda e possibilitando acesso do trabalhadador a serviços que precisam desta comprovação. 
+A idéia surgiu da necessidade de registrar de forma mais detalhada a jornada de trabalhadores informais, visto que não possuem vínculo via CLT. Possibilitando assim a geração de Olerite para comprovação de renda e possibilitando acesso do trabalhadador a serviços que precisam desta comprovação. 
 
 O aplicativo também conta com módulo de reconhecimento facial ainda em fase alfa, para trazer mais segurança ao empregador que terá um histórico mais completo sobre quem  contratou.
 
@@ -30,7 +30,7 @@ Este é um projeto de um ponto eletrônico via app em que a pessoa que utiliza o
 
 O mais importante, esse relógio vai ajudar na contribuição do INSS para que esses profissionais possam se aposentar sem precisar de registro em carteira.
 
-O programa registra as seguintes informações : 
+O programa registra as seguintes informações baseadas em dados fornecido pelo usuário: 
 
 Salário Bruto <br>
 IR (11%) <br>
@@ -42,9 +42,9 @@ Salário Liquido <br>
 Autores
 </h2>
 
-Anderson Reis : contribuinte na estruturação do código, criação do nome do app e da logo 
+Anderson Reis : contribuinte na estruturação do código, criação do nome do app e da logo.
 
-<a href="https://github.com/evertonleite1986" target="_blank"> Everton vieira  </a> : contribuinte na estruturação do codigo e criação da problemática e solução e revisão do código.
+<a href="https://github.com/evertonleite1986" target="_blank"> Everton vieira  </a> : contribuinte na estruturação do código e criação da problemática e solução e revisão do código.
 
 <a href="https://github.com/Lima-Ricardo" target="_blank"> Ricardo alex lima </a> : responsavel pela estruturação do codigo, criação da problemática , solução e revisão do codigo. 
 
@@ -59,4 +59,7 @@ A blue Edtech por nos proporcionar todo o conhecimento agregado durante este pri
 
 Aos professores <a href="https://github.com/limathiagos" target="_blank"> Thiago lima   </a> e o <a href="https://github.com/violigon" target="_blank"> Vinicius oliveira </a> por todo o suporte.
 
-A todos os nossos colegas de curso, que sempre estão animados e dispostos a crescer e aprender uns com os outros em busca de seus objetivos, seguindo o lema do prof thiago "ninguém fica pra trás".
+A todos os nossos colegas de curso, que sempre estão animados e dispostos a crescer e aprender uns com os outros em busca de seus objetivos, seguindo o lema do prof thiago "ninguém fica para trás".
+
+
+<strong> Grupo 5 - Turma 2C - Blue Edtech </strong>
