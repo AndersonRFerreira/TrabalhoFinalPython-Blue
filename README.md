@@ -15,7 +15,7 @@ Sobre o projeto
 
 A idéia surgiu da necessidade de resgistrar de forma mais detalhada a jornada de trabalhadores informais, visto que não possuem vinculo via CLT. Possibilitando assim a geração de Olerite para comprovação de renda e possibilitando acesso do trabalhadador a serviços que precisam desta comprovação. 
 
-O aplicativo também conta com módulo de reconhecimento facial ainda em fase alfa, para trazer mais segurança ao empregador que terá um histórico mais completo sobre quem  contrato
+O aplicativo também conta com módulo de reconhecimento facial ainda em fase alfa, para trazer mais segurança ao empregador que terá um histórico mais completo sobre quem  contratou.
 
 
 Segundo o IBGE até Novembro/2020 uma parcela de 41,6% da população brasileira estava classificada como trabalhadores informais.
@@ -30,12 +30,13 @@ Este é um projeto de um ponto eletrônico via app em que a pessoa que utiliza o
 
 O mais importante, esse relógio vai ajudar na contribuição do INSS para que esses profissionais possam se aposentar sem precisar de registro em carteira.
 
-O programa registra as seguintes informações :
+O programa registra as seguintes informações : 
 
-
-
-
-
+Salário Bruto <br>
+IR (11%) <br>
+INSS (8%) <br>
+Sindicato (5%) <br>
+Salário Liquido <br>
 
 <h2>
 Autores
