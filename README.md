@@ -61,4 +61,4 @@ Aos professores <a href="https://github.com/limathiagos" target="_blank"> Thiago
 A todos os nossos colegas de curso, que sempre estão animados e dispostos a crescer e aprender uns com os outros em busca de seus objetivos, seguindo o lema do prof thiago "ninguém fica para trás".
 
 
-<strong> Grupo 5 - Turma 2C - Blue Edtech </strong>
+<strong> Grupo 5 - Turma 2C </strong>
